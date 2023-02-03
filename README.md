@@ -86,4 +86,4 @@ The function setstextstyle() is used to set these three attributes of any text
 settextstyle(int font , int direction , int charsize);
 
 ## Conclusion : 
-Thus a computerized version of traditional pen-paper Hangman was designed.
+Thus a computerized version of traditional pen-paper Hangman was designed. Although the program took longer than expected to work, the coordinates of each alphabetical letter, the Hangman structure, and the blank spaces for each of the letters, the program worked and performed efficiently.
