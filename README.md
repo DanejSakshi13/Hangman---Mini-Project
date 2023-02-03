@@ -52,30 +52,30 @@ letter appears in the word.
 
 ## Concepts used:
 #### Object Oriented Programming
-Class : A class in C++ is the building block that leads to Object-Oriented programming. It is a user-
+* Class : A class in C++ is the building block that leads to Object-Oriented programming. It is a user-
 defined data type, which holds its own data members and member functions, which can be accessed
 and used by creating an instance of that class.
 ```
 Eg: class HANGMAN{};
 ```
-Access modifiers : They are used to implement an important aspect of Object-Oriented Programming
+* Access modifiers : They are used to implement an important aspect of Object-Oriented Programming
 known as data hiding.
 public - members are accessible from outside the class.
 private - members cannot be accessed (or viewed) from outside the class.
 protected - members cannot be accessed from outside the class, however, they can be accessed in
 inherited classes.
 ```
-public:
-int logic();
+Eg : public:
+     int logic();
 ```
-Scope resolution operator : The scope resolution operator is used to reference the global variable or
+* Scope resolution operator : The scope resolution operator is used to reference the global variable or
 member function that is out of scope.
 It is used to access the hidden variables or member functions of a program.
 It defines the member function outside of the class using the scope resolution.
 It is used to access the static variable and static function of a class.
 The scope resolution operator is used to override function in the Inheritance
 ```
-int HANGMAN :: logic(){}
+Eg : int HANGMAN :: logic(){}
 ```
 #### Computer Graphics
 * Outtextxy():
