@@ -5,13 +5,15 @@
 Write a C++ program to make a word-guessing game in which system throws a random word and the player tries to guess it by suggesting the letters. The word to guess is represented by a row of dashes, giving the number of letters. If the guessing player suggests a letter which occurs in the word, the program writes it in all its correct positions.
 
 ## Prerequisite: 
-Data Structures and problem solving, computer graphics.
+* Data Structures and Problem solving 
+* Computer graphics
+* Object oriented programming
 
 ## Objective: 
 To use concepts of Object Oriented Programming and Computer Graphics to design a computerized version of traditional pen-paper Hangman.
 
 ## Theory:
-The overall architecture of the game can be thought of having following main points which consists of the functionalities mentioned below:
+The overall architecture of the game consists of the functionalities mentioned below:
 1. Pick a random word.
 2. Take the player’s guess.
 3. Quit the game if the player wants to.
