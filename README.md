@@ -75,7 +75,7 @@ The scope resolution operator is used to override function in the Inheritance
 ```
 int HANGMAN :: logic(){}
 ```
-Computer Graphics
+#### Computer Graphics
 * Outtextxy():
 The header file graphics.h contains outtextxy() function which displays the text or string at a specified
 point (x, y) on the screen.
